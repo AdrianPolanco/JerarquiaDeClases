@@ -1,0 +1,14 @@
+F:\adfer\Programacion II\JerarquiaClases\bin\Debug\net8.0\JerarquiaClases.exe
+F:\adfer\Programacion II\JerarquiaClases\bin\Debug\net8.0\JerarquiaClases.deps.json
+F:\adfer\Programacion II\JerarquiaClases\bin\Debug\net8.0\JerarquiaClases.runtimeconfig.json
+F:\adfer\Programacion II\JerarquiaClases\bin\Debug\net8.0\JerarquiaClases.dll
+F:\adfer\Programacion II\JerarquiaClases\bin\Debug\net8.0\JerarquiaClases.pdb
+F:\adfer\Programacion II\JerarquiaClases\obj\Debug\net8.0\JerarquiaClases.GeneratedMSBuildEditorConfig.editorconfig
+F:\adfer\Programacion II\JerarquiaClases\obj\Debug\net8.0\JerarquiaClases.AssemblyInfoInputs.cache
+F:\adfer\Programacion II\JerarquiaClases\obj\Debug\net8.0\JerarquiaClases.AssemblyInfo.cs
+F:\adfer\Programacion II\JerarquiaClases\obj\Debug\net8.0\JerarquiaClases.csproj.CoreCompileInputs.cache
+F:\adfer\Programacion II\JerarquiaClases\obj\Debug\net8.0\JerarquiaClases.dll
+F:\adfer\Programacion II\JerarquiaClases\obj\Debug\net8.0\refint\JerarquiaClases.dll
+F:\adfer\Programacion II\JerarquiaClases\obj\Debug\net8.0\JerarquiaClases.pdb
+F:\adfer\Programacion II\JerarquiaClases\obj\Debug\net8.0\JerarquiaClases.genruntimeconfig.cache
+F:\adfer\Programacion II\JerarquiaClases\obj\Debug\net8.0\ref\JerarquiaClases.dll
